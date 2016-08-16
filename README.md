@@ -1,5 +1,5 @@
-NGIMU-MaxMSP
-============
+NGIMU-MaxMSP-Example
+====================
 
 Example Max/MSP patch for sending and receiving OSC messages to and from an NGIMU over Wi-Fi.  The patch is configured to modify the device UDP send IP address and message send rates, and to display received: Euler angle, sensors, battery and temperature and button messages.
 
